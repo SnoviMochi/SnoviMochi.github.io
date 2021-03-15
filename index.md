@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Snovi Mochi's GitHub Page!
+![income](https://user-images.githubusercontent.com/77644705/111210498-8e0b0500-858a-11eb-9d8b-e0237bf84e56.png)
+
+
 
 You can use the [editor on GitHub](https://github.com/SnoviMochi/SnoviMochi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
